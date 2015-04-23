@@ -4,6 +4,7 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour {
     public float speed = 0.4f;
     Vector2 dest = Vector2.zero;
+	
 
     void Start() {
         dest = transform.position;
