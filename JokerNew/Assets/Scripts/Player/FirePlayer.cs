@@ -9,9 +9,7 @@ public class FirePlayer : MonoBehaviour {
     void Update () {
         if (Input.GetKeyDown(KeyCode.Space)) {
             // Spawn the Bullet
-            GameObject g = (GameObject) Instantiate(bullet,
-                                                    transform.position,
-                                                    Quaternion.identity);
+            GameObject g = (GameObject) Instantiate(bullet, transform.position,Quaternion.identity);
             // Ignore Bullet<->Player collisions
             Physics2D.IgnoreCollision(g.GetComponent<Collider2D>(), transform.parent.GetComponent<Collider2D>());
         }

@@ -7,5 +7,6 @@ public class ContinuousVelocity : MonoBehaviour {
 
     void FixedUpdate() {
         GetComponent<Rigidbody2D>().velocity = velocity;
+
     }
 }
