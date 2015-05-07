@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Misc\EezoScore.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Desktop\Game Development\Unity\Adding Music\Assets\CombatMusicControl.cs">
     <Files>
-      <File FileName="Assets\Scripts\Misc\EezoScore.cs" Line="7" Column="26" />
+      <File FileName="Assets\Scripts\Misc\CombatMusicControl.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Desktop\Game Development\Unity\Adding Music\Assets\CombatMusicControl.cs" Line="15" Column="18" />
+      <File FileName="Assets\Scripts\Misc\BulletDamage.cs" Line="12" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
